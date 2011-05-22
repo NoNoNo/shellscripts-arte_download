@@ -1,4 +1,4 @@
-**Downloads a video from arte+7**
+**Downloads a video from [arte+7](http://videos.arte.tv/de/videos)**
 
 * Usage: `artedl [URL]`
   Where URL is the URL of the page with contains the Flash video
