@@ -1,4 +1,4 @@
-*** Arte.tv downloader ***
+# Arte.tv downloader
 
 
 
