@@ -1,4 +1,4 @@
-*** Arte.tv downloader ***
+# Arte.tv downloader
 
 
 **Download a video from [arte.tv+7](http://www.arte.tv/guide/fr/plus7)**
