@@ -11,9 +11,11 @@ echo
 if [ "$1" == "" ]; then
   echo "Downloads a video from arte.tv+7"
   echo "Usage: artedl [URL] [Language]"
+  echo
   echo "Example: artedl http://www.arte.tv/guide/fr/045907-006/l-orient-extreme-de-berlin-a-tokyo-6-10 fr"
   echo "[Language] can be set at 'fr' or 'de'"
   echo "If [Language] parameter is not set, French is given by default"
+  echo
   exit
 fi
 
