@@ -1,4 +1,4 @@
-**Download a video from [arte+7](http://videos.arte.tv/de/videos)**
+**Download a video from [arte.tv+7](http://www.arte.tv/guide/fr/plus7)**
 
 * Usage: `artedl [URL]`
   Where URL is the URL of the page which contains the Flash video
@@ -7,12 +7,6 @@
 Requires: 
 
 * [`RTMPDump`](http://rtmpdump.mplayerhq.hu/)
-
-(Optional post-processing)
-
-* [`xattr`](http://en.wikipedia.org/wiki/Extended_file_attributes#Mac_OS_X)
-  Sets the *'Where From'* Spotlight metadata
-* `flv2m4v` transcribes `FLV` to `M4V`
 
 Install:
 
