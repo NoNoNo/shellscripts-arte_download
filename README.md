@@ -1,6 +1,7 @@
 # Arte.tv downloader
 
-** Update : Arte changed its website, this script is not working anymore **
+
+**Update : Arte changed its website, this script is not working anymore**
 
 **Download a video from [arte.tv+7](http://www.arte.tv/guide/fr/plus7)**
 
